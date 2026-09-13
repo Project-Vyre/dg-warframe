@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2026-09-05T06:20:31.593-04:00","updated":"2026-09-13T15:45:56.070-04:00","dg-note-properties":{}}
 ---
 
 This is CelestialAbyss's Obsidian Vault for Warframe. Its purpose is to serve as a public knowledgebase based on my own personal testing.
