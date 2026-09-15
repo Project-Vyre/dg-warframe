@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roots/mods/","created":"2026-09-06T10:01:45.927-04:00","updated":"2026-09-13T16:24:12.642-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/roots/mods/","created":"2026-09-06T10:01:45.927-04:00","updated":"2026-09-15T12:54:33.955-04:00","dg-note-properties":{"links":["[[Home]]"]}}
 ---
 
 See here for a breakdown of the different components of a Mod's card:

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/roots/arcanes/","created":"2026-09-05T08:15:49.088-04:00","updated":"2026-09-13T16:23:46.880-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/roots/arcanes/","created":"2026-09-05T08:15:49.088-04:00","updated":"2026-09-15T12:57:59.401-04:00","dg-note-properties":{"links":["[[Home]]"]}}
 ---
 
-# Weapon Arcanes
 - [[Roots/Branches/Primary Weapon Arcanes\|Primary Weapon Arcanes]]
 	- [[Shotgun Arcanes\|Shotgun Arcanes]]
 	- [[Bow Arcanes\|Bow Arcanes]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roots/tier-lists/","created":"2026-09-06T07:01:02.891-04:00","updated":"2026-09-13T16:24:27.049-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/roots/tier-lists/","created":"2026-09-06T07:01:02.891-04:00","updated":"2026-09-15T05:20:02.986-04:00","dg-note-properties":{"links":["[[Home]]"]}}
 ---
 
 Complete with detailed notes and explanations.
