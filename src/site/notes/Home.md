@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2026-09-05T06:20:31.593-04:00","updated":"2026-09-15T05:22:53.950-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2026-09-05T06:20:31.593-04:00","updated":"2026-09-15T14:54:02.246-04:00","dg-note-properties":{}}
 ---
 
 This is CelestialAbyss's Obsidian Vault for Warframe. Its purpose is to serve as a public knowledgebase based on my own personal testing.
@@ -13,7 +13,7 @@ This is CelestialAbyss's Obsidian Vault for Warframe. Its purpose is to serve as
 - [[Roots/Arcanes\|Arcanes]]
 - [[Roots/Mods\|Mods]]
 - [[Roots/Damage\|Damage]]
-    - [[Roots/Status Effects\|Status Effects]]
+- [[Roots/Status Effects\|Status Effects]]
 
 
 > [!TIP] Graph View Tip
